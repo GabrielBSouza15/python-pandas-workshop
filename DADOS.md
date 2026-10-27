@@ -1,6 +1,6 @@
 # Bases sintéticas de ensino
 
-Todos os registros foram criados para esta edição. Não são anonimizações de bases reais, não foram amostrados das bases do Drive e não descrevem pessoas ou organizações reais. Valores monetários representam unidades fictícias e não podem ser interpretados como salários ou resultados profissionais.
+Todos os registros foram criados para ensino. Não são anonimizações de bases reais e não descrevem pessoas ou organizações reais. Valores monetários representam unidades fictícias e não podem ser interpretados como salários ou resultados profissionais.
 
 | Arquivo | Linhas | Colunas e finalidade |
 |---|---:|---|

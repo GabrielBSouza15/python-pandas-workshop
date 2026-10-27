@@ -1,4 +1,4 @@
-# Validação da edição revisada
+# Validação do minicurso
 
 26/10/2026.
 
@@ -9,7 +9,7 @@
 - Sintaxe de todos os blocos Python em Markdown conferida separadamente.
 - Formato dos notebooks validado com nbformat.
 - Gráfico do exercício de agrupamento gerado e inspecionado visualmente.
-- Notebooks públicos sem saídas de execução, credenciais, URLs privadas ou metadados do Drive/Colab histórico. As pastas de execução e os arquivos originais ficam fora do repositório.
+- Notebooks públicos sem saídas de execução, credenciais, URLs privadas ou metadados de contas pessoais. As pastas de execução ficam fora do repositório.
 
 O caminho de execução validado foi local. Não foi feita uma execução automatizada dentro de uma sessão remota do Google Colab. A abertura dos links do Colab é uma conferência separada da execução. O intervalo de dependências em requirements.txt não implica teste de todas as versões permitidas; o ambiente acima é o que foi efetivamente usado.
 
