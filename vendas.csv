@@ -1,0 +1,7 @@
+id_venda,data_venda,nome_produto,quantidade,valor_unitario,valor_total
+1,2025-01-02,Caderno fictício,2,12.5,25.0
+2,2025-01-03,Caneta fictícia,5,3.0,15.0
+3,2025-01-04,Caderno fictício,1,12.5,12.5
+4,2025-01-05,Pasta fictícia,0,8.0,0.0
+5,2025-01-06,Pasta fictícia,3,8.0,24.0
+6,2025-01-07,Caneta fictícia,4,3.0,12.0
