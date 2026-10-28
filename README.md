@@ -47,3 +47,12 @@ Consulte [VALIDACAO.md](VALIDACAO.md) para o ambiente e os testes executados.
 As referências técnicas estão nos notebooks. A organização do material de apoio e do gabarito contou com apoio do OpenAI Codex. Gabriel liderou a preparação do minicurso com a equipe e realizou a apresentação principal.
 
 [Gabriel Bitencourt de Souza no LinkedIn](https://www.linkedin.com/in/gabrielbitencourtdesouza/)
+
+
+## Verificação automática
+
+O workflow executa os dois notebooks em kernels e pastas temporárias independentes, incluindo as verificações do gabarito. Os notebooks publicados continuam sem saídas de execução; nenhum dado pessoal é necessário. A execução ocorre em alterações de `main`, pull requests e acionamentos manuais. Consulte o resultado em [GitHub Actions](https://github.com/GabrielBSouza15/python-pandas-workshop/actions/workflows/testes.yml).
+
+## Licença
+
+[MIT](LICENSE), para o conteúdo publicado neste repositório.
